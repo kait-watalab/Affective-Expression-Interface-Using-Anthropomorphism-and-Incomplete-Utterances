@@ -1,0 +1,2 @@
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

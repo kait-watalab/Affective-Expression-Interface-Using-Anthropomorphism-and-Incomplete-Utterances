@@ -1,0 +1,2 @@
+/Users/a2023178/Documents/GitHub/System-to-Raise-Awareness-of-Latent-Information-in-IoT-Devices-Using-Anthropomorphism/Unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/a2023178/Documents/GitHub/System-to-Raise-Awareness-of-Latent-Information-in-IoT-Devices-Using-Anthropomorphism/Unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

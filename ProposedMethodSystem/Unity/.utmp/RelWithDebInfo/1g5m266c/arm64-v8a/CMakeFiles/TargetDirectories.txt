@@ -1,0 +1,5 @@
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/.utmp/RelWithDebInfo/1g5m266c/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/.utmp/RelWithDebInfo/1g5m266c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/.utmp/RelWithDebInfo/1g5m266c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/.utmp/RelWithDebInfo/1g5m266c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/a2023178/Desktop/QuestCameraTools-Unity-main/unity/LocalizationWithImmersal-6000/.utmp/RelWithDebInfo/1g5m266c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

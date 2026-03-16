@@ -1,0 +1,7 @@
+version: "2"
+authtoken: "2ypUHiEFJ16V2n3hoYC9vcLEwNQ_6MtU1ZuJSkuPHESstnZ74"
+tunnels:
+    voicevox-api:
+        proto: http
+        addr: voicevox:50021
+        host_header: rewrite

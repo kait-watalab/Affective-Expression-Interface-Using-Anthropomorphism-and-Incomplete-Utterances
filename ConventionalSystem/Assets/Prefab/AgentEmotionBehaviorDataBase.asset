@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df9b0603cdb114df2a3cca47eedd691f, type: 3}
+  m_Name: AgentEmotionBehaviorDataBase
+  m_EditorClassIdentifier: 
+  _agentEmotionBehaviorDataList:
+  - AgentEmotionBehaviorType: 1
+    FacialExpressionSprite: {fileID: 21300000, guid: 64a013679294c4afc9cb0c3f81cdcafe,
+      type: 3}
+    SpeechBubbleSprite: {fileID: 21300000, guid: 7abb5a8cf95ae4901b8c2f32f3f1cfab,
+      type: 3}
+    UtterancTextColor: {r: 0.95686275, g: 0.73333335, b: 0.2509804, a: 1}
+    UtterancTextFont: {fileID: 11400000, guid: 0df4c075250ad4c3ba2e3dd1a5242e38, type: 2}
+  - AgentEmotionBehaviorType: 3
+    FacialExpressionSprite: {fileID: 21300000, guid: 66574258700cd46dba38882036a93d30,
+      type: 3}
+    SpeechBubbleSprite: {fileID: 21300000, guid: b3fa0d6e47791469bac154457cc403a5,
+      type: 3}
+    UtterancTextColor: {r: 0.46666667, g: 0.46666667, b: 0.46666667, a: 1}
+    UtterancTextFont: {fileID: 11400000, guid: 0df4c075250ad4c3ba2e3dd1a5242e38, type: 2}
+  - AgentEmotionBehaviorType: 2
+    FacialExpressionSprite: {fileID: 21300000, guid: de569f3a0c6894956b40183c5755dac8,
+      type: 3}
+    SpeechBubbleSprite: {fileID: 21300000, guid: 2574984a507ab4a51974284eceb65b9c,
+      type: 3}
+    UtterancTextColor: {r: 0.44705883, g: 0.48235294, b: 0.44705883, a: 1}
+    UtterancTextFont: {fileID: 11400000, guid: 297bb4d109f24422eb1a486769f0e82d, type: 2}

@@ -1,0 +1,10 @@
+# ninja log v5
+2	1558	1763357458097732817	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	fa7d2383127fb45d
+2	1570	1763357458109275583	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5b5791e6266eb2f7
+1	1621	1763357458159149845	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bf61dcfc8e89fe4
+3	1682	1763357458222991477	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	519d56dd82720ec2
+1	1775	1763357458318346131	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3aff451dedd9d7f7
+4	1807	1763357458351657417	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b35e9e36fde83b8f
+2	1958	1763357458503818434	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	68153620e6be499f
+0	2057	1763357458603104580	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e5b093c695f209cf
+2057	2207	1763357458754036461	/Users/a2023178/Documents/GitHub/System-to-Raise-Awareness-of-Latent-Information-in-IoT-Devices-Using-Anthropomorphism/Unity/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/614u4d3j/obj/arm64-v8a/libgame.so	a24cdd4c0dde3245
